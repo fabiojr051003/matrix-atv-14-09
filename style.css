@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    background-image: url("imagens/fundo_neo.jpg");
+    background-image: url("fundo_neo.jpg");
     background-repeat: repeat-y;
     background-position: right top;
 }
@@ -8,14 +8,14 @@ body{
     font-style: italic;
     font-family: Arial;
     width: 88%;
-    background-image: url("imagens/fundo_matrix.jpg");
+    background-image: url("fundo_matrix.jpg");
     color: white;
 }
 .second-h1{
     font-style: italic;
     font-family: Arial;
     width: 88%;
-    background-image: url("imagens/fundo_matrix.jpg");
+    background-image: url("fundo_matrix.jpg");
     color: white;
     text-align: right;
 }
