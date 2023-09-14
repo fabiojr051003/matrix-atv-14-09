@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    background-image: url("imagens/fundo_neo.jpg");
+    background-repeat: repeat-y;
+    background-position: right top;
+}
+.first-h1{
+    font-style: italic;
+    font-family: Arial;
+    width: 88%;
+    background-image: url("imagens/fundo_matrix.jpg");
+    color: white;
+}
+.second-h1{
+    font-style: italic;
+    font-family: Arial;
+    width: 88%;
+    background-image: url("imagens/fundo_matrix.jpg");
+    color: white;
+    text-align: right;
+}
+.first-p{
+    color: lightgreen;
+    font-family: Verdana;
+    text-align: justify;
+    width: 88%;
+    line-height: 1.2;
+}
+.second-p{
+    color: lightgreen;
+    font-family: Verdana;
+    text-align: justify;
+    width: 88%;
+    line-height: 1.2;
+}
+.third-p{
+    color: lightgreen;
+    font-family: Verdana;
+    text-align: justify;
+    width: 88%;
+    line-height: 1.2;
+}
